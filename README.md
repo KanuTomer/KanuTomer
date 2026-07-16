@@ -54,7 +54,7 @@ Building software that combines <b>Full-Stack Development</b>, <b>AI</b>, and <b
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contributions
 
 <p align="center">
 
