@@ -69,7 +69,7 @@ Building software that combines <b>Full-Stack Development</b>, <b>AI</b>, and <b
 <p align="center">
 
 <a href="https://linkedin.com/in/kanu-tomer">
-<img src="https://skillicons.dev/icons?i=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
 <a href="https://www.youtube.com/@adeadkid">
