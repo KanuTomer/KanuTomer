@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
-</p>
 
-<h1 align="center">Hi 👋 I'm Kanu Tomer</h1>
+
+<h1 align="center">Hi, I'm Kanu Tomer</h1>
 
 <p align="center">
 Building software that combines <b>Full-Stack Development</b>, <b>AI</b>, and <b>Optimization</b>.
