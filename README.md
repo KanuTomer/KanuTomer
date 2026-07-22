@@ -22,17 +22,17 @@ Building software that combines <b>Full-Stack Development</b>, <b>AI</b>, and <b
 
 ---
 
-# 🚀 About Me
+# About Me
 
-- 💻 Full-Stack Developer
-- 🤖 AI / Machine Learning
-- 📦 Logistics & Route Optimization
-- 📱 React & React Native
-- ☕ Coffee-powered debugging
+- Full-Stack Developer
+- AI / Machine Learning
+- Logistics & Route Optimization
+- React & React Native
+- Coffee-powered debugging
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -42,7 +42,7 @@ Building software that combines <b>Full-Stack Development</b>, <b>AI</b>, and <b
 
 ---
 
-# 🔥 Contribution Streak
+# Contribution Streak
 
 <p align="center">
 
@@ -52,7 +52,7 @@ Building software that combines <b>Full-Stack Development</b>, <b>AI</b>, and <b
 
 ---
 
-# 🐍 Contributions
+# Contributions
 
 <p align="center">
 
@@ -62,7 +62,7 @@ Building software that combines <b>Full-Stack Development</b>, <b>AI</b>, and <b
 
 ---
 
-# 🌐 Connect
+# Connect
 
 <p align="center">
 
